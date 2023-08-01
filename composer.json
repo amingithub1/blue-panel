@@ -12,6 +12,13 @@
             "name": "Amin"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/amingithub1/blue-panel"
+        }
+    ],
+
     "require": {
         "php": "^8.1"
     },
