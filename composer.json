@@ -14,13 +14,13 @@
     ],
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/amingithub1/blue-panel"
+            "type": "git",
+            "url": "https://github.com/amingithub1/blue-panel.git"
         }
     ],
     "require": {
         "php": "^8.1",
-        "amingithub1/blue-panel": "1.0.0" // Add the version constraint here
+        "amingithub1/blue-panel": "1.0.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
