@@ -1,0 +1,16 @@
+{
+    "name": "amingithub1/blue-panel",
+    "description": "A simple and wonderful admin panel for laravel",
+    "license": "MIT licence",
+    "autoload": {
+        "psr-4": {
+            "VendorPackage\\BluePanel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amin"
+        }
+    ],
+    "require": {}
+}
